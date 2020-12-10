@@ -1,0 +1,1 @@
+Program çalıştırıldığı anda, eğer "C:\Users\User\Desktop" adında bir dizin varsa (Windows kurulduğunda masaüstünü default olarak bu şekilde kurar.) masaüstüne, eğer yoksa ve masaüstü dizini farklı bir şekilde oluşturulmuşsa dosyanın bulunduğu dizine saniyede yaklaşık 500 ile 1000 tane arası (Bilgisayarın gücüne göre değişkenlik gösterir.) metin belgesi oluştur.
